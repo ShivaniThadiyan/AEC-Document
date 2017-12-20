@@ -9,12 +9,15 @@ AEC documentation
 <kbd><img src="/Images/ODL%26Attendees.png"/></kbd>
 
 -In Dashboard Section, you can filter by date.Click on this button.
+
 <kbd><img src="/Images/Filter_by_date.png"/></kbd>
 
 -Click on calendar button
+
 <kbd><img src="/Images/Filter_by_date1.png"/></kbd>
 
 -Click **OK**.
+
 <kbd><img src="/Images/filter_by_date2.png/></kbd>
 
 -In Dashboard Section, you can see the 
