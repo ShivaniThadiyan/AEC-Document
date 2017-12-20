@@ -6,3 +6,4 @@ AEC documentation
 <kbd><img src="/Images/ODL_Dashboard.png"/></kbd>
 
 -In Dashboard Overview Section, you can see the **12 ODLs** and **30 Attendees**.
+<kbd><img src="/Images/ODL%26Attendees.png"/></kbd>
