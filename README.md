@@ -72,3 +72,14 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 -Click on Submit once required options above are filled.
 
 <kbd><img src="/Images/Create_LicenseKey.png"/></kbd>
+
+-Click on Action Button to add the License.
+
+<kbd><img src="/Images/License_Action.png"/></kbd>
+
+
+
+
+
+
+
