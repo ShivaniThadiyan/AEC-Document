@@ -58,7 +58,7 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 
 ### How to Create license key
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
--Once logged in, click on **License key** on the left pane of the portal. This will list the templates if any. 
+-Once logged in, click on **License key** on the left pane of the portal. This will list the Licenses if any. 
 
 <kbd><img src="/Images/License_key.png"/></kbd>
 
@@ -68,5 +68,7 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 
 -Now provide the following details in the Add License type page that comes up.
 * Name : Provide a suitable name to the License type
+
+-Click on Submit once required options above are filled.
 
 <kbd><img src="/Images/Create_LicenseKey.png"/></kbd>
