@@ -88,14 +88,18 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 <kbd><img src="/Images/Click_AddLicense.png"/></kbd>
 
 -Now provide the following details in the Add license page that comes up.
-* License type :
-* Expiry Date :
-* Licenses :
-* License Cost :
+* License type: Choose the License which you created before.
+* Expiry Date: Choose any suitable date.
+* Licenses: Provide any suitable name for License.
+* License Cost: Provide cost of the License.
 
 <kbd><img src="/Images/Click_Add_LicenseDetails.png"/></kbd>
 
--Click on Submit once required options are  above filled.
+-Click on Submit once required options are above filled.
+
+
+
+
 
 
 
