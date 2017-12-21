@@ -53,3 +53,6 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 <kbd><img src="/Images/Metrices_Country.png"/></kbd>
 
 <kbd><img src="/Images/Country_ExportReport.png"/></kbd>
+
+## License Key Distribution
+### Create licenses keys
