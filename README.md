@@ -20,6 +20,12 @@ AEC documentation
 
 <kbd><img src="/Images/filter_by_date2.png"/></kbd>
 
+-In Dashboard Section, Click on **Export all** Button. It will directly download the excel sheet  Report of all data.
+
+<kbd><img src="/Images/Click_ExportAll.png"/></kbd>
+
+<kbd><img src="/Images/Exportall_Report.png"/></kbd>
+
 -In Dashboard Section, you can see the 
 * METRICS BY ATTENDEE COUNT
 * METRICES BY TEMPLATE
@@ -69,13 +75,20 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 -Now provide the following details in the Add License type page that comes up.
 * Name : Provide a suitable name to the License type
 
--Click on Submit once required options above are filled.
+-Click on Submit once required options are filled.
 
 <kbd><img src="/Images/Create_LicenseKey.png"/></kbd>
 
 -Click on Action Button to add the License.
 
 <kbd><img src="/Images/License_Action.png"/></kbd>
+
+-Click on Add License.
+
+<kbd><img src="/Images/Click_AddLicense.png"/></kbd>
+
+
+
 
 
 
