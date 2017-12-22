@@ -105,15 +105,9 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 <kbd><img src="/Images/Vouchers_odl.png"/></kbd>
 
 -Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
-* Approval : Choose one of the option to define the approval type for the ODL.
+* Approval : Choose only **invite only** option to define the approval type for the ODL.
 
-a. Registration Required : This defines that the user should register for the ODL to get access to the ODL.
-
-b. Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.
-
-c. Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.
-
-d. Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
+-Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
 * Enable Vouchers : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
 
@@ -128,6 +122,14 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 -Click on **Add Vouchers**.
 
 <kbd><img src="/Images/Click_AddVouchers.png"/></kbd>
+
+- Now provide the following details in the Add Vouchers Page that comes up.
+
+<kbd><img src="/Images/Click_Submit.png"/></kbd>
+
+-Now you can see the voucher added successfully.
+
+<kbd><img src="/Images/Vouchers_addedSuccessfully.png"/></kbd>
 
 ### User ODL Management
 
