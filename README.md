@@ -100,6 +100,7 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 ### Managing and distributing Voucher’s
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+
 -Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
 
 <kbd><img src="/Images/Vouchers_odl.png"/></kbd>
@@ -158,13 +159,18 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 
 <kbd><img src="/Images/Registration_Add%20details.png"/></kbd>
 
+-Click on **Submit** once required options are filled.
+
 -Now you can see the registration successful.
 
 <kbd><img src="/Images/Registration_Successfull.png"/></kbd>
 
 -Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+
 -Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+
 -Click on Vouchers Button.
+
 -Now Click on **Available** button, you can see the voucher code that is available for user.
 
 <kbd><img src="/Images/Click_Available.png"/></kbd>
