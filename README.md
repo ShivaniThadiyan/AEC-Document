@@ -123,7 +123,7 @@ In Metrices by Country, you can see all Country. For Export Report Click on **Ex
 
 <kbd><img src="/Images/Click_AddVouchers.png"/></kbd>
 
-- Now provide the following details in the Add Vouchers Page that comes up.
+-Now provide the following details in the Add Vouchers Page that comes up.
 
 <kbd><img src="/Images/Click_Submit.png"/></kbd>
 
@@ -150,6 +150,32 @@ c. Registration & Approval Required : This defines that the user should register
 d. Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
 ### Distributing Vouchers
+-Copy the Voucher Code that you created and give in registration page.
+
+<kbd><img src="/Images/Copy_VoucherCode.png"/></kbd>
+
+-paste the Voucher Code in Registration page below.
+
+<kbd><img src="/Images/Registration_Add%20details.png"/></kbd>
+
+-Now you can see the registration successful.
+
+<kbd><img src="/Images/Registration_Successfull.png"/></kbd>
+
+-Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+-Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+-Click on Vouchers Button.
+-Now Click on **Available** button, you can see the voucher code that is available for user.
+
+<kbd><img src="/Images/Click_Available.png"/></kbd>
+
+-Now click on **Redeemed** button, you can see that voucher code is redeem for user.
+
+<kbd><img src="/Images/Click_Redeemed.png"/></kbd>
+
+
+
+
 
 
 
